@@ -128,7 +128,7 @@ params:
     title: "To my digital collection"
     subtitle: "Explore my digital creations and insights"
     content: "Here you will uncover my jounrey though the realms of knowledge, forged by years of experiance. Explore tales of triumph, delve into scholoarly pursuits, witness feats of creativity, and join me on quests of thought."
-    image: /images/hero.svg
+    image: /portrait2.png
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -152,7 +152,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.png"
+    image: /portrait.png
     content: |-
       I am a recent graduate with a passion for science and research. I have a background in Psychology, and I have a strong interest in alcohol and other drug use, particularly among American Indian communites. I am currently working as an intern at I9 technologies, where I am learning about networking and system intergration.
 
