@@ -128,7 +128,7 @@ params:
     title: "To my digital collection"
     subtitle: "Explore my digital creations and insights"
     content: "Here you will uncover my jounrey though the realms of knowledge, forged by years of experiance. Explore tales of triumph, delve into scholoarly pursuits, witness feats of creativity, and join me on quests of thought."
-    image: /portrait2.png
+    image: /grad.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
